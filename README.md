@@ -1,4 +1,4 @@
-### Hi there 👋
+[![tpolito's GitHub stats](https://github-readme-stats.vercel.app/api?username=tpolito)](https://github.com/tpolito/github-readme-stats)
 
 <!--
 **tpolito/tpolito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
